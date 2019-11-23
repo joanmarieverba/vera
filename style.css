@@ -9,9 +9,9 @@ body {
 .mainHeaderImage {
     background-image: url("./images/VeraBanner.jpg");
     background-size: cover;
-    height: 30vh;
+    height: 500px;
     opacity: 0.7;
-    width: 100vw;
-    background-size: cover;
+    width: 105vw;
+
 }
 
