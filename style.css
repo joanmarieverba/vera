@@ -7,10 +7,11 @@ body {
 }
 
 .mainHeaderImage {
-    background-image: url("viewscreen1920x1080.jpg");
+    background-image: url("./images/VeraBanner.jpg");
     background-size: cover;
     height: 65vw;
     opacity: 0.7;
     width: 100%;
     background-size: cover;
 }
+
