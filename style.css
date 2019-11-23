@@ -5,3 +5,12 @@ body {
 .jumbotron {
   margin-bottom: 0;
 }
+
+.mainHeaderImage {
+    background-image: url("viewscreen1920x1080.jpg");
+    background-size: cover;
+    height: 65vw;
+    opacity: 0.7;
+    width: 100%;
+    background-size: cover;
+}
