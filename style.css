@@ -2,17 +2,4 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-.jumbotron {
-  margin-bottom: 0;
-  padding-top: 0;
-}
-
-.mainHeaderImage {
-    background-image: url("./images/VeraBanner.jpg");
-    background-size: cover;
-    height: 500px;
-    opacity: 0.7;
-    width: 1563px;
-
-}
 
