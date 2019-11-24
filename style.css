@@ -3,3 +3,10 @@ body {
 }
 
 
+.navbar {
+  margin-top: 1vw;
+}
+
+.nav-link {
+  font-weight: bold;
+}
