@@ -7,6 +7,7 @@ body {
   margin-top: 1vw;
 }
 
-.nav-link {
+.navbar-light .navbar-nav .nav-link {
   font-weight: bold;
+  color: black;
 }
