@@ -11,3 +11,10 @@ body {
   font-weight: bold;
   color: black;
 }
+
+.pad {
+ padding: 5px;
+ color: tomato;
+}
+ 
+
