@@ -13,8 +13,9 @@ body {
 }
 
 .pad {
- padding: 5px;
- color: tomato;
+ padding-top: 5vh;
+ padding-bottom: 5vh;
+ color:black;
 }
  
 
