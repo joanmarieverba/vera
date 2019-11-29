@@ -2,6 +2,9 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.bold-text {
+  font-weight: bold;
+}
 
 .navbar {
   margin-top: 1vw;
