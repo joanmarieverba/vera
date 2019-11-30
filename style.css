@@ -5,6 +5,11 @@ body {
   font-size: 18px;
 }
 
+.address {
+  padding-bottom: .5vh;
+  padding-left: 40vw;
+}
+
 .bold-text {
   font-weight: bold;
 }
