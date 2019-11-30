@@ -1,5 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: azure;
 }
 
 .bold-text {
@@ -12,7 +13,7 @@ body {
 
 .navbar-light .navbar-nav .nav-link {
   font-weight: bold;
-  color: blue;
+  color: midnightblue;
 }
 
 .pad {
