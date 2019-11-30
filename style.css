@@ -18,6 +18,10 @@ body {
   margin-top: 1vw;
 }
 
+.nav-item {
+  padding-right: 2vw;
+}
+
 .navbar-light .navbar-nav .nav-link {
   font-weight: bold;
   color: midnightblue;
