@@ -1,6 +1,8 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: "Verdana";
   background-color: azure;
+  font-size: 18px;
 }
 
 .bold-text {
