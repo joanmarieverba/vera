@@ -1,9 +1,18 @@
 body {
   /* font-family: 'Roboto', sans-serif; */
   font-family: "Helvetica";
-  background-color: azure;
+  /* background-color: azure; */
+  background-color:#E8F3FF;
   font-size: 18px;
 }
+
+a:hover {
+  background-color:white;
+  /* color: white; */
+}
+
+
+
 
 .address {
   padding-bottom: .5vh;
