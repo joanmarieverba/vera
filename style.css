@@ -6,12 +6,13 @@ body {
   font-size: 18px;
 }
 
-a:hover {
-  background-color:white;
-  /* color: white; */
+a {
+  color: #7A4E7C
 }
 
-
+a:hover {
+  color: white;
+}
 
 
 .address {
