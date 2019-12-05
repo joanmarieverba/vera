@@ -48,4 +48,10 @@ a {
  
 
 
+@media screen and (max-width: 640px) {
 
+  .container {
+    padding: 5vw;
+  }
+
+}
