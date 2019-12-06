@@ -34,6 +34,11 @@ a {
   margin-top: 1vw;
 }
 
+.navbar-light .navbar-toggler {
+    color: black;
+    border-color: rgba(0,0,0,0);
+}
+
 .nav-item {
   padding-right: 2vw;
 }
