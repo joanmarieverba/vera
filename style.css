@@ -23,6 +23,13 @@ a {
   font-weight: bold;
 }
 
+.menu {
+  padding-left: 15vw;
+  padding-top: 1vw;
+  font-weight: bold;
+  color: black;
+}
+
 .navbar {
   margin-top: 1vw;
 }
