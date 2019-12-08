@@ -19,6 +19,12 @@ a {
   font-weight: bold;
 }
 
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 5vw;
+  }
+}
+
 .dropdown-item {
   font-weight: bold;
 }
@@ -41,7 +47,7 @@ footer {
 }
 
 .menu {
-  padding-left: 70vw;
+  padding-left: 65vw;
   padding-top: 1vw;
   font-weight: bold;
   color: black;
@@ -83,10 +89,3 @@ footer {
  
 
 
-@media screen and (max-width: 640px) {
-
-  .container {
-    padding: 5vw;
-  }
-
-}
