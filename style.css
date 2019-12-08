@@ -25,6 +25,12 @@ a {
 
 footer {
   background: url('gold-texture.jpg');
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.footer-text {
+  font-weight: bold;
 }
 
 .menu {
