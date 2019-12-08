@@ -59,7 +59,7 @@ footer {
 
 .navbar-light .navbar-toggler {
     color: black;
-    border-color: rgba(0,0,0,0);
+    border-color: gray;
 }
 
 .nav-item {
