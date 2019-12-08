@@ -31,13 +31,13 @@ a {
 
 footer {
   background: url('gold-texture.jpg');
-  padding-top: 2vw;
-  padding-bottom: 2vw;
+  padding-top: 1vw;
+  padding-bottom: 1vw;
 }
 
 .footer-text {
   font-weight: bold;
-  padding-left: 40%;
+  padding-left: 35%;
 }
 
 @media (max-width: 768px) { 
