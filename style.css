@@ -59,6 +59,12 @@ footer {
   color: black;
 }
 
+@media only screen and (max-width: 669px) and (min-width: 600px) {
+  .menu {
+    padding-left: 80vw;
+  }
+} 
+
 @media only screen and (max-width: 992px) and (min-width: 700px) {
   .menu {
     padding-left: 80vw;
