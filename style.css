@@ -58,7 +58,7 @@ footer {
 
 .menu {
   padding-right: .5px;
-  font-weight: bold;
+  /* font-weight: bold; */
   font-size: 30px;
   color: black;
 }
