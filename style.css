@@ -64,17 +64,6 @@ footer {
   color: black;
 }
 
-/* @media only screen and (max-width: 785px) and (min-width: 500px) {
-  .menu {
-    padding-left: 60vw;
-  }
-} 
-
-@media only screen and (max-width: 992px) and (min-width: 785px) {
-  .menu {
-    padding-left: 80vw;
-  }
-}  */
 
 @media (min-width: 992px) { 
   .menu {
