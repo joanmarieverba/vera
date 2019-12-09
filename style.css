@@ -58,7 +58,7 @@ footer {
 
 .menu {
   padding-right: 1vw;
-  padding-top: 1vw;
+  padding-top: 8vh;
   font-weight: bold;
   font-size: 30px;
   color: black;
@@ -77,7 +77,7 @@ footer {
 
 .navbar-light .navbar-toggler {
     color: black;
-    /* border-color: gray; */
+    border-color:transparent;
 }
 
 .nav-item {
