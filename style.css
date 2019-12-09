@@ -57,8 +57,7 @@ footer {
 }
 
 .menu {
-  padding-right: 1vw;
-  padding-top: 8vh;
+  padding-right: .5px;
   font-weight: bold;
   font-size: 30px;
   color: black;
@@ -91,6 +90,10 @@ footer {
 
 .navbar-light .navbar-nav .nav-link:hover {
   color:white;
+}
+
+.navbar-toggler-icon {
+  vertical-align: sub;
 }
 
 .pad {
