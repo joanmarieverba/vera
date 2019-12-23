@@ -56,6 +56,10 @@ footer {
   float: left;
 }
 
+.lindent {
+  text-indent: -.5em;
+}
+
 .menu {
   padding-right: .5px;
   font-size: 28px;
