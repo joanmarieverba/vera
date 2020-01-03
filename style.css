@@ -52,6 +52,11 @@ footer {
   }
 }
 
+.img-center {
+  margin-left: 10vw;
+  margin-bottom: 1vw;
+}
+
 .left {
   float: left;
 }
