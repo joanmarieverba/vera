@@ -15,6 +15,10 @@ a {
   padding-left: 40vw;
 }
 
+.bottom {
+  margin-bottom: 1vh;
+}
+
 .bold-text {
   font-weight: bold;
 }
@@ -112,6 +116,10 @@ footer {
  
 .section-title {
   font-size: 22px;
+}
+
+.separator {
+  padding-right: 1px;
 }
 
 
