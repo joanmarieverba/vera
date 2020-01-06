@@ -69,6 +69,10 @@ footer {
   text-indent: -.5em;
 }
 
+.lspace {
+  padding-left: 1px;
+}
+
 .menu {
   padding-right: .5px;
   font-size: 28px;
@@ -118,8 +122,6 @@ footer {
   font-size: 22px;
 }
 
-.separator {
-  padding-right: 1px;
-}
+
 
 
