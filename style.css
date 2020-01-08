@@ -56,6 +56,11 @@ footer {
   }
 }
 
+.force-row {
+  margin-right: auto;
+  margin-left: 1px;
+}
+
 .img-center {
   margin-left: 10vw;
   margin-bottom: 1vw;
