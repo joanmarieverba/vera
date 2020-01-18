@@ -61,6 +61,11 @@ footer {
   margin-left: 1px;
 }
 
+hr.top {
+  border: 3px solid black;
+  padding-left: 0;
+}
+
 .img-center {
   margin-left: 10vw;
   margin-bottom: 1vw;
@@ -127,6 +132,7 @@ footer {
 .section-title {
   font-size: 22px;
 }
+
 
 .vspace {
   padding-bottom: 1vh;
