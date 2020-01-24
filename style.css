@@ -35,8 +35,9 @@ a {
 
 footer {
   background: url('gold-texture.jpg');
-  padding-top: 1vw;
-  padding-bottom: 1vw;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  margin-top: 5vh;
 }
 
 .footer-text {
