@@ -148,6 +148,11 @@ hr.top {
   font-size: 22px;
 }
 
+.top {
+  background: url('gold-texture.jpg');
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+}
 
 .vspace {
   padding-bottom: 1vh;
