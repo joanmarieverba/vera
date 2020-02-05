@@ -1,13 +1,11 @@
 body {
-  /* font-family: 'Roboto', sans-serif; */
   font-family: "Helvetica";
-  /* background-color: azure; */
   background-color:#EEE8DF;
   font-size: 18px;
 }
 
 a {
-  color: #887D87
+  color: #800000
 }
 
 .address {
