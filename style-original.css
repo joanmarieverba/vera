@@ -1,0 +1,152 @@
+body {
+  font-family: "Helvetica";
+  background-color:#EEE8DF;
+  font-size: 18px;
+}
+
+a {
+  color: #800000
+}
+
+.address {
+  padding-bottom: .5vh;
+  padding-left: 40vw;
+}
+
+.bottom {
+  margin-bottom: 5vh;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.carousel-control-next, .carousel-control-prev {
+  width: 2%;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 5vw;
+  }
+}
+
+.dropdown-item {
+  font-weight: bold;
+}
+
+footer {
+  background: url('gold-texture.jpg');
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  margin-top: 5vh;
+}
+
+.footer-text {
+  font-weight: bold;
+  padding-left: 32%;
+}
+
+@media (max-width: 768px) { 
+  .footer-text {
+    padding-left: 15%;
+  }
+}
+
+@media (max-width: 576px) { 
+  .footer-text {
+    padding-left: 5%;
+  }
+}
+
+.force-row {
+  margin-right: auto;
+  margin-left: 1px;
+}
+
+hr.top {
+  border: 3px solid black;
+  padding-left: 0;
+}
+
+.img-center {
+  margin-left: 10vw;
+  margin-bottom: 1vw;
+}
+
+.left {
+  float: left;
+}
+
+.lindent {
+  text-indent: -.5em;
+}
+
+.lspace {
+  padding-left: 1vw;
+}
+
+.lspace2 {
+  padding-left: 3vw;
+}
+
+.menu {
+  padding-right: .5px;
+  font-size: 28px;
+  color: black;
+}
+
+
+@media (min-width: 992px) { 
+  .menu {
+    display: none;
+  }
+}
+
+.navbar {
+  margin-top: 1vw;
+}
+
+.navbar-light .navbar-toggler {
+    color: black;
+    border-color:transparent;
+}
+
+.nav-item {
+  padding-right: 2vw;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: bold;
+  color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color:white;
+}
+
+.navbar-toggler-icon {
+  vertical-align: sub;
+}
+
+
+.pad {
+ padding-top: 5vh;
+ padding-bottom: 5vh;
+ color:black;
+}
+ 
+.section-title {
+  font-size: 22px;
+}
+
+.vspace {
+  padding-bottom: 1vh;
+}
+
