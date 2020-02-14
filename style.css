@@ -199,11 +199,11 @@ hr.top {
 }
 
 
-/* Number text (1/3 etc) */
+/* Number text (1/8 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
-  padding: 8px 12px;
+  padding: 4px 4px;
   position: absolute;
   top: 0;
 }
