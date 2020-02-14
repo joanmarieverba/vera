@@ -202,7 +202,7 @@ hr.top {
 /* Number text (1/8 etc) */
 .numbertext {
   color: #f2f2f2;
-  font-size: 12px;
+  font-size: 8px;
   padding: 4px 4px;
   position: absolute;
   top: 0;
